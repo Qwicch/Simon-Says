@@ -12,7 +12,7 @@ To install and run this project, you need to have [Git](https://git-scm.com/) an
 - Enjoy the game!
 
 Or you can Follow the Link and enjoy it directly from browser.
-  'https://qwicch.github.io/Simon-Says/'
+  `https://qwicch.github.io/Simon-Says/`
 
 ## Usage
 
